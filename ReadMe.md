@@ -59,8 +59,11 @@ Some of the codes are taken from the following articles and packages:
 Codes written & compiled by:
 ----------------------------
 Pingfan Song
-Electronic and Electrical Engineering,
+
+Electronic and Electrical Engineering
+
 Imperial College London
+
 p.song@imperial.ac.uk
 
 
